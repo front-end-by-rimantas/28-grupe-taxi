@@ -55,7 +55,7 @@ maryte.stats();
 stasys.stats();
 // Stasys nuvaziavo 30 km ir uzdirbo 30.00 Eur.
 ona.stats();
-// Ona nuvaziavo 63 km ir uzdirbo 126.00 Eur.
+// Ona nuvaziavo 33 km ir uzdirbo 66.00 Eur.
 
 jonas.updatePrice(1.5);
 // Jonas nustate nauja kilometro kaina - 1.50 Eur.
@@ -80,4 +80,4 @@ maryte.stats();
 stasys.stats();
 // Stasys nuvaziavo 51 km ir uzdirbo 61.50 Eur.
 ona.stats();
-// Ona nuvaziavo 79 km ir uzdirbo 162.80 Eur.
+// Ona nuvaziavo 33 km ir uzdirbo 102.80 Eur.
